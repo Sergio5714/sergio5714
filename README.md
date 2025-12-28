@@ -1,4 +1,5 @@
-I’m Sergei, a hardware maker and open-source enthusiast.
+# 👋 Hi, I’m Sergei
+Hardware maker and open-source enthusiast.
 
 🔬 This GitHub is reserved for my open-source contributions, hobby projects, and experiments.
 
